@@ -1,6 +1,7 @@
 dist
 dist-*
 logs
+tls
 cabal-dev
 *.o
 *.hi

@@ -22,6 +22,7 @@ executable nanolog
   -- other-extensions:    
   build-depends:       base
                      , scotty
+                     , scotty-tls
                      , transformers
                      , text
 
